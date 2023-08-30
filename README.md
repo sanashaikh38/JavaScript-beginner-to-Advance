@@ -1,2 +1,2 @@
-# JavaScript-bigineer-to-Advance
+# JavaScript-beginner-to-Advance
 Let's Start with Javascript
