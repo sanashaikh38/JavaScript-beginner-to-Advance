@@ -1,0 +1,15 @@
+console.log('var let and const fifference')
+var a=23;
+var a="hi"
+let b='human';
+var c=null
+
+const author ='harry';
+let author =5;// constant cannot be changed
+
+{
+  var b='this '
+  console.log(b)
+}
+
+console.log(b)
